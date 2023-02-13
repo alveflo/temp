@@ -2,3 +2,6 @@
 # used to look up users just like we do for commit author
 # emails.
 *.go docs@example.com
+
+# Test
+README.md victor.alveflo@gmail.com
